@@ -1,0 +1,2 @@
+So as long as file1 is defined before file2 in html, you can use functions defined in file1 inside file2 without any problem
+So is the case with script tag inside html. You can use functions that are defined in files declared before using those functions
